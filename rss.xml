@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[tapps]]></title>
         <description><![CDATA[tapps]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tapps/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 18:18:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 08 Jun 2016 15:14:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tapps/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[a title. of a post. ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb2c8fb6-7994-4e5e-9538-037b308a7881.gif">]]></description>
+            <link>https://thegrid.ai/tapps/a-title-of-a-post/index.html</link>
+            <guid isPermaLink="false">1e62a384-7c9a-4ad5-8ccb-f402e8aa531a</guid>
+            <pubDate>Wed, 08 Jun 2016 15:14:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[oh, hello there.]]></title>
             <description><![CDATA[<article><h1>oh, hello there.</h1><p>stuff and things. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ecf999b2a47711c8375677e6ec14944a52f3565.jpg"></article>]]></description>
-            <link>undefinedoh-hello-there/index.html</link>
+            <link>https://thegrid.ai/tapps/oh-hello-there/index.html</link>
             <guid isPermaLink="false">9a7c6d99-c5c1-4a35-83ff-02ce107fbda2</guid>
             <pubDate>Tue, 29 Dec 2015 18:18:09 GMT</pubDate>
         </item>
